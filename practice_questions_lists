@@ -1,0 +1,18 @@
+1Ans- Its an empty list.
+2Ans- spam[2] = 'hello'
+3Ans- error
+4Ans- 'd'
+5Ans- 'a', 'b'
+6Ans- 1
+7Ans- [3.14, 'cat', 11, 'cat', True, 99]
+8Ans- [3.14, 11, 'cat', True]
+9Ans- Conc = + repli = *
+10Ans- append() methods insert a value at last. While insert at wherever you want
+11Ans- del and remove
+12Ans- index, len(), slices, conca, repli, in and not
+13Ans- lists are immutable while tuples are mutable
+14Ans- tuple(42,)
+15Ans- tuple([]), list(())
+16Ans- References of the list.
+17Ans- copy.copy() will copy the list. While copy.deepcopy() will copy
+lists inside of a list.

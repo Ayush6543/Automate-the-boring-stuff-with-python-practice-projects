@@ -1,0 +1,17 @@
+1Ans- Escape characters are symbols that can add many functions to a
+string which can make them writing handy.
+2Ans- The \n represent  a new line and \t represents  a new tab
+3Ans- \\
+4Ans- Double string are being used here.
+5ans- Multiline strings.
+6ans- 'H'
+      'Hello'
+      'Hello'
+      'llo world!'
+7ans- 'HELLO'
+      'True'
+      'hello'
+8ans- ['Remember', 'remember', 'the', 'fifth', 'of', 'November']
+      'There-can-be-only-one.'
+9ans- ''.center(), ''.rjust(), ''.ljust()
+10ans- ''.strip()

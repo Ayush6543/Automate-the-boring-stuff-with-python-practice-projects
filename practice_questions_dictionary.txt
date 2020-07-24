@@ -1,0 +1,11 @@
+1Ans- code = {}.
+2Ans- {'foo':42}.
+3Ans- You can access the items in the dictionary with the help of key-value pairs
+while a list items is supposed to be accessed through indexes.
+4Ans- Error
+5Ans- 'cat' in spam means if "cat's" key or value is in spam or not and
+spam.values() will check  whether the cat is in key of a dictionary.
+6Ans- 'cat' in spam means if "cat's" key or value is in spam or not and
+spam.values() will check  whether the cat is in value of a dictionary.
+7Ans- spam.setdefault('color', 'black')
+8ans - pprint() module.
