@@ -3,10 +3,9 @@ import pyperclip
 
 # ! python3
 
-PASSWORDS = {'jio-fi': 'ayushyadav123',
-             'computer': 'ayushyadav123$',
-             'gmail': 'yadavayush123$',
-             'ms-office-account': 'yadavayush321$'
+PASSWORDS = {'jio-fi': '7474774',
+             'email': 'yryyryy',
+             'luggage': '123'
              }
 
 if len(sys.argv) < 2:
