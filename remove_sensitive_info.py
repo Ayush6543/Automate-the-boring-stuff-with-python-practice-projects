@@ -1,4 +1,5 @@
 # ! python3
+# You can only search for mastercard.
 
 import pyperclip
 import re
@@ -16,4 +17,4 @@ if len(matches) > 0:
     print('\n'.join(matches))
 else:
     print('No credit card number or social security number found')
-"""4222222222222"""
+ 
