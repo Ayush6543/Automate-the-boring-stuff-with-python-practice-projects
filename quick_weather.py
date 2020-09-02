@@ -10,7 +10,7 @@ if len(sys.argv) < 2:
 location = ' '.join(sys.argv[1:])
 
 # Download the JSON data from open_weather_map.org's API.
-api_key = 'You API'
+api_key = 'Your API'
 base_url = "http://api.openweathermap.org/data/2.5/weather?"
 url = base_url + 'appid=' + api_key + "&q=" + location
 
